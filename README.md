@@ -1,4 +1,4 @@
-ゲーム再生動画URL
+ゲーム再生動画URL（7/15更新）
 --
 https://www.youtube.com/watch?v=U_1SCqz6c80&ab_channel=%EB%B0%95%EC%84%9C%EC%A7%84
 
