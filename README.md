@@ -1,6 +1,6 @@
 ゲーム再生動画URL
 --
-https://youtu.be/U_1SCqz6c80
+https://youtu.be/q8704EtDIGo
 
 タイトル：廃墟の王座（Throne of Ruins）　／　開発期間：6月～8月
 --
