@@ -5325,7 +5325,7 @@ MonoBehaviour:
   patrolAnimParam: isPatrolling
   attackAnimTrigger: AttackTrigger
   dieAnimTrigger: DieTrigger
-  maxHp: 100
+  maxHp: 1000
   attackForce: 10
   DeadEffect: {fileID: 303322879}
   audioSource: {fileID: 8709132038820406649}

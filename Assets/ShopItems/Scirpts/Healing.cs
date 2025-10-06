@@ -21,7 +21,7 @@ public class Healing : ItemData
             return;
         }
 
-        player.Heal(healAmount);
+        player.HealHp(healAmount);
         Debug.Log($"회복 물약 사용! (+{healAmount} HP)");
     }
 }

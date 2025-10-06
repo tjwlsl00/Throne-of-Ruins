@@ -16,7 +16,7 @@ MonoBehaviour:
   itemName: Mana
   price: 2
   isStackable: 1
-  currentStack: 1
   maxStack: 99
+  defaultStackSize: 1
   canUseInInventory: 1
   healAmount: 30

@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: New Healing Potion
   m_EditorClassIdentifier: 
   icon: {fileID: 1097912878, guid: bfac408f45263ca4096d29b349af4a91, type: 3}
-  itemName: Healing
+  itemName: HP
   price: 2
   isStackable: 1
-  currentStack: 1
   maxStack: 99
+  defaultStackSize: 1
   canUseInInventory: 1
   healAmount: 30
