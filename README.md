@@ -1,6 +1,6 @@
 ゲーム再生URL 
 --
-https://youtu.be/jojOxqP2Igk
+https://youtu.be/q8704EtDIGo
 
 
 タイトル：廃虚の王座　／　開発期間：5月～7月
