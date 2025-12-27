@@ -1,7 +1,7 @@
 ゲーム再生URL 
 --
-[![영상 타이틀](http://img.youtube.com/vi/q8704EtDIGo/0.jpg)](https://www.youtube.com/watch?v=q8704EtDIGo)
-https://youtu.be/q8704EtDIGo
+[![廃虚の王座](http://img.youtube.com/vi/q8704EtDIGo/0.jpg)](https://www.youtube.com/watch?v=q8704EtDIGo)
+
 
 
 タイトル：廃虚の王座 Throne-of-Ruins　／　開発期間：25年０６月０２日　～　25年０７月31日
