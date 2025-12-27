@@ -1,6 +1,6 @@
 ゲーム再生URL 
 --
-[![廃虚の王座](http://img.youtube.com/vi/q8704EtDIGo/0.jpg)](https://www.youtube.com/watch?v=q8704EtDIGo)
+[![廃虚の王座](http://img.youtube.com/vi/q8704EtDIGo/0.jpg)](https://www.youtube.com/watch?v=q8704EtDIGo)<br>
 画像をクリックするとリンクに接続されます。<br>
 
 エラーが生じた場合、以下のリンク先で接続お願いします。<br>
