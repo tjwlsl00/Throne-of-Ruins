@@ -25,10 +25,17 @@
 ゲーム再生URL 
 --
 [![廃虚の王座](http://img.youtube.com/vi/q8704EtDIGo/maxresdefault.jpg)](https://www.youtube.com/watch?v=q8704EtDIGo)<br>
-
-*画像をクリックするとリンクに繋がります。<br>
-
-*エラーが生じた場合、以下のリンク先でお願い致します。<br>
 https://youtu.be/q8704EtDIGo
+<br>
+<br>
+画像およびリンクをクリックすることで、動画に接続できます。
+
+ビルドデータ▣Unity6000.0.37f1
+--
+<div style="display: flex; align-items: center; gap: 8px;">
+  <a href="https://drive.google.com/drive/folders/1g_TLjA6E_DIrOCh0fadH3RbvMDDTylfw?usp=drive_link" target="_blank" title="구글 드라이브 폴더로 이동" style="display: flex; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/OneDrive_Folder_Icon.svg" width="32" height="32" style="display: block;">
+  </a>
+
 
 
